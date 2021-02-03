@@ -6,9 +6,9 @@ body {
 .navbar-brand {
   color: black;
 }
-body {
+/* body {
   background-image: url("./backgroundP.jpg");
-}
+} */
 
 #portfolio-header {
   width: 54%;
