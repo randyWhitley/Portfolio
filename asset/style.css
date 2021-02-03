@@ -7,7 +7,7 @@ body {
   color: black;
 }
 body {
-  background-image: url("../images/backgroundP.jpg");
+  background-image: url("./asset/images/backgroundP.jpg");
 }
 
 #portfolio-header {
